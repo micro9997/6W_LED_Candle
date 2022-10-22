@@ -11,6 +11,8 @@ It's a 6W LED candle that serves as a backup light.
 
 &nbsp;
 
+[![youtube video](https://github.com/micro9997/6W_LED_Candle/blob/master/images/image_3.png)](https://youtu.be/2VdI3PGfRXI)
+
 ![image_3](https://youtu.be/2VdI3PGfRXI)
 
 &nbsp;
